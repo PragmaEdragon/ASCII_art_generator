@@ -15,6 +15,8 @@ Generating ascii arts with python via command prompt.
                    
 * * *
 ### How to work via command prompt
+* * *
+
      $root/<dir with main.py file> python main.py -h <for help>
      $root/<dir with main.py file> python main.py -d or --directory <to chose file in your directory. Like: C:\abc\123.jpg>
      $root/<dir with main.py file> python main.py -d <filename> --expansion <to choose extension of your fille>
