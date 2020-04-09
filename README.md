@@ -13,7 +13,7 @@ Generating ascii arts with python via command prompt.
      image_ascii = [pixels_to_ascii[index: index + new_width] for index in
                    range(0, len_pixels_to_ascii, new_width)]
                    
-* * *
+
 ### How to work via command prompt
 * * *
 
